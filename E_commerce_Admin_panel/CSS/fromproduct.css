@@ -1,0 +1,66 @@
+#labelname{
+    margin-left: 5%;
+}
+
+#productname{
+    margin-left: 2%;
+}
+
+#Descript{
+    margin-left: 2%;
+}
+
+#description{
+    margin-left: 2%;
+    width: 66%;
+}
+
+#labelcat{
+    margin-left: 2%;
+}
+
+#Categorie{
+    margin-left: 2%;
+}
+
+#filechose{
+    margin-left: 0%;
+}
+
+#addProduct{
+    margin-bottom: -11%;
+    margin-left: 2%;
+}
+
+.formulaire{
+    margin-top: 89px;
+}
+
+@media only screen and (max-width: 500px){
+
+    #productid{
+        width: 91%;
+    }
+
+    #productname{
+        width: 96%;
+    }
+
+    #Descript{
+        margin-left: 5%;
+    }
+
+    #description{
+        margin-left: 5%;
+        width: 91%;
+    }
+
+    #Categorie{
+        width: 97%;
+    }
+
+    #addProduct{
+        margin-bottom: -28%;
+        margin-left: 4%;
+    }
+}
